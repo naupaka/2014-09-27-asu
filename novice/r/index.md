@@ -1,6 +1,6 @@
 ---
 layout: lesson
-root: ../
+root: ../..
 title: R
 ---
 <div class="toc" markdown="1">
