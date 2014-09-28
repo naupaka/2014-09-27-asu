@@ -1,3 +1,7 @@
+---
+layout: lesson
+root: ../..
+---
 
 
 # Taking notes and creating reports:
