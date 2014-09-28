@@ -1,4 +1,7 @@
-
+---
+layout: lesson
+root: ../..
+---
 
 # Making Choices
 
