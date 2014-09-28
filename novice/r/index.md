@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: ../..
-title: The Unix Shell
+title: R
 ---
 <div class="toc" markdown="1">
 
