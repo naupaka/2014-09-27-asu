@@ -1,4 +1,4 @@
-### Using and Rmd file, create a short analysis report using R of the gapminder dataset.
+### Using an Rmd file, create a short analysis report using R of the gapminder dataset.
 
 1. Move into your working directory (the one you have been working with for git and github)
 2. Take a look at the file ([you can re-download it here](http://npk.io/BGRY+)), and pick three countries you are interested in.
