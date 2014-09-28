@@ -1,3 +1,7 @@
+---
+layout: lesson
+root: ../..
+---
 
 
 # Basic Defensive Programming
